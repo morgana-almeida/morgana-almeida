@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu Github da <a href="https://picpay.com/">PicPay!
 
-## Sobre mim
+## 👩🏻‍💻 Sobre mim
 Sou Analytics Engineer, atuo no time de Data Management com foco em Dados Cross, Governança do Data Lake, Gestão de Acesso e Qualidade de Dados. 
 Apaixonada por resolver problemas com dados e tenho interesse em Machine Learning e Data Science.
 
@@ -10,9 +10,16 @@ Apaixonada por resolver problemas com dados e tenho interesse em Machine Learnin
 
 - **Data Ingestions, Cleaning and Curation**: extração, ingestão, limpeza e transformação de dados e disponibilização dos dados na camada curada para os times.
 - **Gestão de Acesso a Dados Pessoais**: sustentação da gestão de acesso a dados PII no data lake, usando Unity Catalog (Databricks) junto ao time DM.
-- **Reports**: contrução de dashboards e reports para gestão e acompanhamento do time DM.
+- **Reports**: construção de dashboards e reports para gestão e acompanhamento do time DM.
 
-## Tech Stack
+## 🎯 Objetivos Profissionais
+
+- Aprofundar meus conhecimentos em MLOps, DS e implementar práticas de CI/CD em pipelines de dados.
+- Contribuir para projetos open-source relacionados a engenharia de dados.
+- Desenvolver soluções escaláveis para gerenciamento de dados em ambientes de Big Data.
+
+
+## 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,python,github,vscode,pyspark&perline=3)](https://skillicons.dev)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
