@@ -1,4 +1,4 @@
-# Hi there! Welcome 👋
+# Hi, welcome! 👋
 
 Bem-vindo ao meu Github da <a href="https://picpay.com/">PicPay!
 
