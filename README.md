@@ -4,7 +4,7 @@ Bem-vindo ao meu Github da <a href="https://picpay.com/">PicPay!
 
 ## Sobre mim
 Sou Analytics Engineer, atuo no time de Data Management com foco em Dados Cross, Governança do Data Lake, Gestão de Acesso e Qualidade de Dados. 
-Apaixonada por dados com interesse em Machine Learning e DS.
+Apaixonada por resolver problemas com dados e tenho interesse em Machine Learning e DS.
 
 ## Atividades, Projetos & Iniciativas
 
